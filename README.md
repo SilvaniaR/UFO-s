@@ -1,5 +1,5 @@
 # UFO-s
-Javascript- file:///Users/silvania/data_bootcamp/Module_11_java/UFO-s/index.html
+Javascript
 
 ## Overview of analysis:
 We created a webpage with dynamic tables to be able to filter information from our data file. At first we created a table that only filter by date. We later then wanted the user to be able to filter the data by various elements such as city , state, country and shape of UFO.
